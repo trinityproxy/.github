@@ -2,7 +2,7 @@
 приватнейшная организация с приватнейшими долбоебами пытающимся в веб разработку так же известная под названием **ИП Иван Селищев**
 
 
-<img src="https://github.com/user-attachments/assets/78ef06c4-9ee2-4093-a36a-562353862a7e" width=100>
+<img src="https://github.com/user-attachments/assets/78ef06c4-9ee2-4093-a36a-562353862a7e" width=1000>
 
 ## Мы - разрабочтики действительно важных проектов, таких как 
 yandex.kz, durden.dev, xhamster.com, vast.ai и https://samadm.ru/
